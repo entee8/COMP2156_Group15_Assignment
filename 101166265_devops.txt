@@ -1,0 +1,2 @@
+The COMP 3104 - DevOps course at George Brown College focuses on DevOps practices, aiming to integrate development and operations for efficient software delivery. 
+The course is 4 hours per week, and you will learn tools and techniques used in DevOps environments.
