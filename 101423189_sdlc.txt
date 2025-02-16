@@ -1,1 +1,2 @@
 The Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop, and test high-quality software. DevOps plays a crucial role in improving the SDLC by enabling continuous integration and delivery.
+DevOps tools like Jenkins, Docker, and Kubernetes are widely used in the SDLC to automate processes and improve efficiency.
